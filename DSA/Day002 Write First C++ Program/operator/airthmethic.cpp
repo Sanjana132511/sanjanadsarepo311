@@ -17,3 +17,4 @@ int main (){
     float f4 = 2 % 5;  
     cout << f4 << endl ;
 }
+//output :0, 0.4, 0.4, 7, -3, 10, 2
