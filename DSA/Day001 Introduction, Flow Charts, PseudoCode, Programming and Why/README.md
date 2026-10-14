@@ -3,13 +3,7 @@
 ## 📘 Flowchart Notes
 
 ![Flowchart Page 1](images/1000190269.png)
-<!-- ![Flowchart Page 2](images/1000190270.png)
-![Flowchart Page 3](images/1000190271.png)
-![Flowchart Page 4](images/1000190272.png)
-![Flowchart Page 5](images/1000190273.png)
-![Flowchart Page 6](images/1000190274.png)
-![Flowchart Page 7](images/1000190275.png)
-![Flowchart Page 8](images/1000190276.png) -->
+
 
 ---
 
