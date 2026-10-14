@@ -1,0 +1,36 @@
+# Day001 Introduction, Flow Charts, PseudoCode, Programming and Why
+
+## 📘 Flowchart Notes
+
+![Flowchart Page 1](images/1000190269.png)
+<!-- ![Flowchart Page 2](images/1000190270.png)
+![Flowchart Page 3](images/1000190271.png)
+![Flowchart Page 4](images/1000190272.png)
+![Flowchart Page 5](images/1000190273.png)
+![Flowchart Page 6](images/1000190274.png)
+![Flowchart Page 7](images/1000190275.png)
+![Flowchart Page 8](images/1000190276.png) -->
+
+---
+
+### 🧩 FlowChart
+It is a visual representation of a program using diagrams and shapes having a fixed meaning.  
+**Example:** In a flow chart, the *ellipse* denotes the start and end of the program.  
+
+- **Parallelogram** → Input or output statement  
+- **Rectangle** → Calculation or arithmetic operations  
+- **Rhombus** → Decision or comparison  
+
+**Note:** There is no symbol or shape for loops, but the decision shape can be used to make a loop.
+
+---
+
+### 💡 PseudoCode
+It is a general instruction without any syntax, but once written, it can be easily converted into code.
+
+---
+
+### 💻 Programming
+Programming languages are special languages that can be converted into computer‑understandable format written in a fixed syntax.  
+A computer performs calculations and actions better than humans, but it only understands 0 and 1.  
+Hence, we write programs in human‑understandable format, and a **compiler** converts them into machine code.
